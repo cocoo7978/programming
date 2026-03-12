@@ -1,2 +1,7 @@
-matplotlib
 streamlit
+pandas
+matplotlib
+geopandas
+shapely
+numpy
+folium
