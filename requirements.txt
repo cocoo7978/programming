@@ -5,3 +5,4 @@ geopandas
 shapely
 numpy
 folium
+streamlit-folium
